@@ -1,1 +1,1 @@
-# tinyone
+https://shoriftk.github.io/tinyone/.
